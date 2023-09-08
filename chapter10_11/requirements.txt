@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib
+bcrypt
+python-multipart
+python-jose
+pytest
+requests
+aiofiles
+pytest
+# pip install -r requirements.txt
+
+# openssl rand -hex 32
